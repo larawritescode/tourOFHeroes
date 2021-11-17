@@ -1,0 +1,19 @@
+/* MessagesComponent's private CSS styles */
+h2 {
+    color: #c05555;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+  }
+  
+  .clear {
+    color: #333;
+    background-color: #eee;
+    margin-bottom: 12px;
+    padding: 1rem;
+    border-radius: 4px;
+    font-size: 1rem;
+  }
+  .clear:hover {
+    color: white;
+    background-color: #5a776b;
+  }
